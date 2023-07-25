@@ -1,6 +1,5 @@
 '''
 Em 2012, durante a Competição de Cachorros-Quentes do Nathan, o campeão Joey Chestnut bateu um novo recorde mundial ao devorar 68 cachorros-quentes em dez minutos. A competição é realizada pelo restaurante Nathan's Famous Corporation, localizado no Brooklyn, NY, e mundialmente famoso por seus deliciosos cachorros-quentes. No entanto, eles precisam melhorar em matemática para serem listados no Livro de Recordes do Guinness, pois para isso precisam preencher um formulário descrevendo os fatos básicos da competição, incluindo o número médio de cachorros-quentes consumidos pelos participantes. Você pode ajudá-los?
-
 Seu desafio é escrever um programa que calcule o número médio de cachorros-quentes consumidos pelos participantes, dados o número total de cachorros-quentes consumidos e o número total de participantes da competição.
 
 Entrada
@@ -43,3 +42,4 @@ pessoas = int(entrada[1])
 
 resultado = lanche/pessoas
 
+print(f'{resultado:.2}')
