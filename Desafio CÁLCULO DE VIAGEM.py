@@ -7,18 +7,15 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 
 Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
-
-
 Exemplo de Entrada	Exemplo de Saída
 10 85
 
 70.833
 
-
-
 Exemplo de Entrada	Exemplo de Saída
 22 67	122.833
 '''
+
 
 entrada = input().split()
 
